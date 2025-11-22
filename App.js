@@ -19,14 +19,14 @@ const ARTWORKS = [
     tags: ["portrait", "renaissance"],
     img: "/assets/monalisa.jpg",
     info: {
-      en: "The Mona Lisa is a half-length portrait painting by Leonardo da Vinci. It is famed for its enigmatic expression, use of sfumato, and subtle realism.",
-      hi: "मोना लिसा लियोनार्डो दा विंची का आधा-लंबाई चित्र है। यह अपनी रहस्यमयी मुस्कान और 'स्फुमातो' तकनीक के लिए प्रसिद्ध है।",
-      kn: "ಮೊನಾ ಲಿಸಾ ಲಿಯೋನಾರ್ಡೋ ದಾ ವಿಂಚಿ ಅವರ ಅರ್ಧ-ಉದ್ದ ಚಿತ್ರ. ಇದು ಅದರ ರಹಸ್ಯ ನಗು ಮತ್ತು ಸ್ಫುಮಾಟೊ ತಂತ್ರಕ್ಕಾಗಿ ಪ್ರಸಿದ್ಧ."
+      en: "The Mona Lisa is a famous portrait painted by Leonardo da Vinci. It shows a woman sitting calmly with a gentle smile on her face. Her expression is mysterious—sometimes it looks like she is smiling, and sometimes she looks serious. She is wearing simple clothes and a dark veil. Her hands are folded softly on herBehind her, there is a beautiful background with mountains, rivers, and a winding road. The colors are soft and smooth, and the painting looks very realistic. The light on her face makes her look calm and peaceful. The Mona Lisa is known for her natural beauty, secretive smile, and the artist’s amazing skill.",
+      hi: "मोना लिसा लियोनार्डो दा विंची द्वारा बनाई गई एक प्रसिद्ध पेंटिंग है। यह एक महिला को शांत भाव से बैठे हुए दिखाती है, जिसके चेहरे पर हल्की-सी मुस्कान है। उसकी अभिव्यक्ति रहस्यमयी है—कभी वह मुस्कुराती हुई लगती है और कभी थोड़ा गंभीर। वह साधारण कपड़े पहने हुए है और उसके सिर पर एक काला घूंघट है। उसके हाथ उसकी गोद में कोमलता से रखे हुए हैं।उसके पीछे पहाड़ों, नदियों और एक घुमावदार रास्ते वाला सुंदर प्राकृतिक दृश्य दिखाई देता है। रंग बहुत मुलायम और स्मूद हैं, और पेंटिंग बहुत वास्तविक लगती है। उसके चेहरे पर पड़ती रोशनी उसे शांत और सहज दिखाती है। मोना लिसा अपनी प्राकृतिक सुंदरता, रहस्यमयी मुस्कान और कलाकार की अद्भुत कला के लिए जानी जाती है।",
+      kn: "ಮೋನಾಲಿಸಾ ಎಂಬುದು ಲಿಯೊನಾರ್ಡೋ ಡಾ ವಿನ್ಚಿ ರವರ ಪ್ರಸಿದ್ಧ ಚಿತ್ರವಾಗಿದೆ. ಇದರಲ್ಲಿ ಒಬ್ಬ ಮಹಿಳೆಯನ್ನು ಶಾಂತವಾಗಿ ಕುಳಿತಿರುವಂತೆ ತೋರಿಸಲಾಗಿದೆ, ಅವಳ ಮುಖದಲ್ಲಿ ಸಣ್ಣ, ಮೃದು ನಗು ಕಾಣುತ್ತದೆ. ಅವಳ ಭಾವನೆ ರಹಸ್ಯಮಯವಾಗಿದೆ—ಕೆಲವೊಮ್ಮೆ ಅವಳು ನಗುವಂತೆ ಕಾಣುತ್ತದೆ, ಮತ್ತೆ ಕೆಲವೊಮ್ಮೆ ಗಂಭೀರವಾಗಿಯೂ ತೋರುತ್ತಾಳೆ. ಅವಳು ಸರಳವಾದ ಬಟ್ಟೆಗಳನ್ನು ಧರಿಸಿದ್ದಾಳೆ ಮತ್ತು ಅವಳ ತಲೆಯ ಮೇಲೆ ಕತ್ತಲೆ ಬಣ್ಣದ ಒರಳು (ವೇಲ್) ಇದೆ. ಅವಳ ಕೈಗಳು ಮೃದುವಾಗಿ ಒಡಲ ಮೇಲಿಟ್ಟಿರುವಂತೆ ಚಿತ್ರಿಸಲಾಗಿದೆ.ಅವಳ ಹಿಂದೆ ಪರ್ವತಗಳು, ನದಿಗಳು ಮತ್ತು ಓಲಾಡುವ ದಾರಿಯಿರುವ ಸುಂದರ ನೈಸರ್ಗಿಕ ಹಿನ್ನೆಲೆ ಕಾಣುತ್ತದೆ. ಬಣ್ಣಗಳು ಮೃದುವಾಗಿಯೂ ಸ್ಮೂತ್ ಆಗಿಯೂ ಇದ್ದು, ಚಿತ್ರ ಬಹಳ ವಾಸ್ತವವಾಗಿ ತೋರಿಸುತ್ತದೆ. ಅವಳ ಮುಖದ ಮೇಲೆ ಬೀಳುವ ಬೆಳಕು ಅವಳನ್ನು ಶಾಂತ ಮತ್ತು ಸಮಾಧಾನಕರವಾಗಿ ತೋರಿಸುತ್ತದೆ. ಮೋನಾಲಿಸಾ ತನ್ನ ನೈಸರ್ಗಿಕ ಸೌಂದರ್ಯ, ರಹಸ್ಯಮಯ ನಗು ಮತ್ತು ಕಲಾವಿದರ ಅದ್ಭುತ ಕೌಶಲ್ಯಕ್ಕಾಗಿ ಪ್ರಸಿದ್ಧಳಾಗಿದ್ದಾಳೆ.."
     },
     fun: {
-      en: ["It may have been painted over several years.", "It has been in the Louvre since the French Revolution era."],
-      hi: ["इसे कई वर्षों में बनाया गया हो सकता है।", "यह फ्रेंच क्रांति के बाद से लौवर में है।"],
-      kn: ["ಇದನ್ನು ಹಲವಾರು ವರ್ಷಗಳಲ್ಲಿಯೇ ಚಿತ್ರಿಸಲಾಗಿದೆ ಎಂದು ನಂಬುವರು.", "ಇದು ಫ್ರೆಂಚ್ ಕ್ರಾಂತಿಯ ನಂತರದಿಂದ ಲೂವರ್‌ನಲ್ಲಿ ಇದೆ."]
+      en: ["1. Her smile looks different every time you look at it — sometimes happy, sometimes serious. 2.People feel like her eyes follow them around the room because of Leonardo’s perfect painting technique."],
+      hi: ["1. उसकी मुस्कान हर बार देखने पर अलग दिखती है — कभी खुश, कभी थोड़ी गंभीर।  2. लोग महसूस करते हैं कि उसकी आँखें हर जगह उनका पीछा करती हैं, जो लियोनार्डो की अद्भुत पेंटिंग तकनीक की वजह से है।"],
+      kn: ["1. ಅವಳ ನಗು ಪ್ರತೀ ಬಾರಿ ನೋಡಿದಾಗ ಬೇರೆ ರೀತಿಯಾಗಿ ಕಾಣುತ್ತದೆ — ಕೆಲವೊಮ್ಮೆ ಸಂತೋಷವಾಗಿ, ಕೆಲವೊಮ್ಮೆ ಸ್ವಲ್ಪ ಗಂಭೀರವಾಗಿ. 2. ಲಿಯೋನಾರ್ಡೋ ಅವರ ಅದ್ಭುತ ಚಿತ್ರಕಲಾ ತಂತ್ರದ ಕಾರಣ, ಅವಳ ಕಣ್ಣುಗಳು ಎಲ್ಲೆಡೆ ನಮ್ಮನ್ನು ಅನುಸರಿಸುವಂತೆ ಅನಿಸುತ್ತದೆ.."]
     }
   },
   {
@@ -37,9 +37,9 @@ const ARTWORKS = [
     tags: ["landscape", "post-impressionism"],
     img: "/assets/starrynight.jpg",
     info: {
-      en: "Painted while Van Gogh was in an asylum in Saint-Rémy, 'Starry Night' captures a swirling night sky and high emotional energy.",
-      hi: "वैन गॉग ने सेंट-रेमी आश्रम में रहते हुए यह चित्र बनाया। इसमें घूमता हुआ रात का आकाश दिखता है।",
-      kn: "ವ್ಯಾನ್ ಗಾಗ್ ಅವರು ಸೆಂಟ್-ರೆಮಿ ಆಸ್ಪತ್ರೆಯಲ್ಲಿ ಇರುವಾಗ ಈ ಚಿತ್ರವನ್ನು ರಚಿಸಿದರು. ಇದರಲ್ಲಿ ತಿರುಗುತ್ತಿರುವ ರಾತ್ರಿ آಕಾಶವನ್ನು ತೋರಿಸುತ್ತದೆ."
+      en: "Starry Night is a famous painting by Vincent van Gogh. It shows a small village sleeping quietly under a magical night sky. The sky is full of swirling clouds, shining stars, and a bright, glowing moon. The stars look like they are moving, creating a sense of energy and motion.In the foreground, there is a tall, dark cypress tree that seems to reach up toward the sky. The houses below look peaceful, with soft lights in some windows. The colors in the painting—mainly deep blues, yellows, and blacks—create a dreamy, emotional feeling. The painting feels both calm and full of life at the same time.Van Gogh painted the night sky not as it looks, but as he felt it — full of emotion, movement, and wonder.",
+      hi: "स्टारी नाइट विन्सेंट वैन गॉग की एक प्रसिद्ध पेंटिंग है। यह एक छोटे से गाँव को दिखाती है जो शांत रात में सो रहा है। ऊपर का आसमान घूमते हुए बादलों, चमकते सितारों और एक तेज, चमकीले चाँद से भरा हुआ है। सितारे ऐसे लगते हैं जैसे वे चल रहे हों, जिससे पूरी पेंटिंग में ऊर्जा और गति का एहसास होता है।चित्र के सामने एक लंबा, गहरा सरू का पेड़ है, जो मानो आसमान की ओर बढ़ रहा हो। नीचे के घर शांत और सुकून भरे दिखाई देते हैं, कुछ खिड़कियों में हल्की रोशनी भी है। पेंटिंग में इस्तेमाल किए गए गहरे नीले, पीले और काले रंग इसे सपनों जैसा और भावुक बनाते हैं। यह पेंटिंग एक साथ शांत भी लगती है और जीवंत भी।वैन गॉग ने रात के आसमान को वैसा नहीं बनाया जैसा वह दिखता है, बल्कि वैसा बनाया जैसा उन्होंने महसूस किया — भावनाओं, गति और आश्चर्य से भरा हुआ।",
+      kn: "ಸ್ಟಾರಿ ನೈಟ್ ಎಂಬುದು ವಿನ್ಸೆಂಟ್ ವ್ಯಾನ್ ಗೋಗ್ ಅವರ ಪ್ರಸಿದ್ಧ ಚಿತ್ರವಾಗಿದೆ. ಇದರಲ್ಲಿ ಶಾಂತ ರಾತ್ರಿ ಒಂದು ಸಣ್ಣ ಹಳ್ಳಿ ನಿದ್ರಿಸುತ್ತಿರುವಂತೆ ತೋರಿಸುತ್ತದೆ. ಮೇಲಿನ ಆಕಾಶವು ಸುತ್ತುವ ಬಿರುಗಾಳಿಯಂತೆ ಕಾಣುವ ಮೋಡಗಳು, ಹೊಳೆಯುವ ನಕ್ಷತ್ರಗಳು ಮತ್ತು ಪ್ರಕಾಶಮಾನ ಚಂದ್ರನಿಂದ ತುಂಬಿದೆ. ನಕ್ಷತ್ರಗಳು ಚಲಿಸುತ್ತಿರುವಂತೆ ಕಾಣುತ್ತವೆ, ಇದರಿಂದ ಚಿತ್ರಕ್ಕೆ ಒಂದು ವಿಶಿಷ್ಟ ಶಕ್ತಿ ಮತ್ತು ಚಲನೆಯ ಅನುಭವ ಬರುತ್ತದೆ.ಚಿತ್ರದ ಮುಂದಿರುವ ಉದ್ದವಾದ, ಕತ್ತಲೆ ಸರಳ ಮರವು ಆಕಾಶದತ್ತ ಹಾರುತ್ತಿರುವಂತೆ ಕಾಣುತ್ತದೆ. ಕೆಳಗಿನ ಮನೆಗಳು ಶಾಂತವಾಗಿಯೂ ಆರಾಮವಾಗಿಯೂ ತೋರುತ್ತವೆ, ಕೆಲವು ಕಿಟಕಿಗಳಲ್ಲಿ ಮೃದು ಬೆಳಕು ಕೂಡ ಕಾಣಿಸುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ಬಳಸಿರುವ ಗಾಢ ನೀಲಿ, ಹಳದಿ ಮತ್ತು ಕಪ್ಪು ಬಣ್ಣಗಳು ಇದನ್ನು ಕನಸಿನಂತೂ, ಭಾವನಾತ್ಮಕವಾಗಿಯೂ ಮಾಡುತ್ತವೆ. ಈ ಚಿತ್ರವು ಒಂದೇ ಸಮಯದಲ್ಲಿ ಶಾಂತವೂ, ಜೀವಂತವೂ ಆಗಿ ಕಾಣುತ್ತದೆ.ವ್ಯಾನ್ ಗೋಗ್ ಅವರು ರಾತ್ರಿಯ ಆಕಾಶವನ್ನು ಅದು ಕಾಣುವ ರೀತಿಯಲ್ಲಿ ಮಾತ್ರ ಚಿತ್ರಿಸಲಿಲ್ಲ; ಅವರು ಅನುಭವಿಸಿದಂತೆ—ಭಾವನೆ, ಚಲನ ಮತ್ತು ಆಶ್ಚರ್ಯಗಳಿಂದ ತುಂಬಿ—ಚಿತ್ರಿಸಿದರು.."
     },
     fun: {
       en: ["Van Gogh painted this mostly from memory.", "The painting has become a symbol of expressionist emotion."],
@@ -55,9 +55,9 @@ const ARTWORKS = [
     tags: ["surrealism"],
     img: "/assets/persistence.jpg",
     info: {
-      en: "A surrealistic piece famous for its melting clocks, representing the fluidity and oddity of time and dreams.",
-      hi: "एक अतियथार्थवादी कृति जो पिघलती हुई घड़ियों के लिए जानी जाती है, जो समय और सपनों की प्रवाहशीलता को दर्शाती है।",
-      kn: "ಕಲೆಯಲ್ಲಿರುವ ಕರಗುತ್ತಿರುವ ಗಡಿಯಾರಗಳಿಗಾಗಿ ಪ್ರಸಿದ್ಧವಾದ ಅತಿರಚನಾತ್ಮಕ ಕೃತಿ; ಇದು ಸಮಯದ ಹರಿವು ಮತ್ತು ಕನಸಿನ ಅಸಾಮಾನ್ಯತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+      en: "The painting “Persistent” shows a single figure standing strong in the middle of a challenging landscape. Around them, the sky is rough, filled with swirling clouds and heavy winds, symbolizing the difficulties they face. Yet the person remains steady, moving forward step by step, their posture full of determination.The colors shift from dark tones on one side to brighter shades on the other, showing the journey from struggle to hope. Every brushstroke feels deliberate and powerful, capturing the spirit of someone who refuses to give up. The painting as a whole represents strength, consistency, and the courage to continue—no matter how hard the path becomes.",
+      hi: "“Persistent” नाम की पेंटिंग में एक अकेला व्यक्ति एक कठिन दृश्य के बीच मज़बूती से खड़ा दिखाया गया है। उसके चारों ओर आसमान उथल–पुथल से भरा है — घुमड़ते बादल और तेज़ हवाएँ उसके सामने आने वाली चुनौतियों का प्रतीक हैं। फिर भी वह व्यक्ति अडिग खड़ा है, एक-एक कदम आगे बढ़ता हुआ, उसके हावभाव में दृढ़ निश्चय साफ दिखता है।चित्र के रंग एक तरफ गहरे और कठिनाइयों को दर्शाते हैं, और दूसरी तरफ हल्के और उजाले रंग उम्मीद का संकेत देते हैं। हर ब्रशस्ट्रोक मज़बूत और सोच-समझकर बनाया हुआ लगता है, जो किसी ऐसे इंसान की भावना को दर्शाता है जो हार नहीं मानता। पूरी पेंटिंग साहस, निरंतरता और कठिन परिस्थितियों में भी आगे बढ़ते रहने की ताकत को दिखाती है।",
+      kn: "“Persistent” ಎಂಬ ಪೇಂಟಿಂಗ್‌ನಲ್ಲಿ ಒಬ್ಬ ವ್ಯಕ್ತಿ ಕಠಿಣ ಪರಿಸ್ಥಿತಿಗಳ ನಡುವೆಯೂ ದೃಢವಾಗಿ ನಿಂತಿರುವಂತೆ ತೋರಿಸಲಾಗಿದೆ. ಅವನ ಸುತ್ತಲಿನ ಆಕಾಶದಲ್ಲಿ ಗಾಳಿ, ಗೂಡುಬಿದ್ದ ಮೋಡಗಳು ಮತ್ತು ಅಶಾಂತಿಯ ಚಟುವಟಿಕೆಗಳು ಕಾಣುತ್ತವೆ — ಅವನು ಎದುರಿಸುತ್ತಿರುವ ಸವಾಲುಗಳ ಸಂಕೇತವಾಗಿ. ಆದರೂ ಅವನು ಅಚಲವಾಗಿ ನಿಂತಿದ್ದಾನೆ, ಒಂದು ಒಂದು ಹೆಜ್ಜೆ ಮುಂದಕ್ಕೆ ಹಾಕುತ್ತಾ, ಅವನ ಭಂಗಿಯಲ್ಲಿ ದೃಢ ನಿಶ್ಚಯ ಸ್ಪಷ್ಟವಾಗಿ ಕಾಣುತ್ತದೆ.ಚಿತ್ರದ ಬಣ್ಣಗಳು ಒಂದು ಕಡೆ ಗಾಢವಾಗಿದ್ದು ಕಷ್ಟಗಳನ್ನು ಸೂಚಿಸುತ್ತವೆ, ಮತ್ತೊಂದು ಕಡೆ ಬೆಳಕು ಮತ್ತು ನವಿರಾದ ಬಣ್ಣಗಳು ಆಶೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತವೆ. ಪ್ರತಿಯೊಂದು ಬ್ರಶ್‌ಸ್ಟ್ರೋಕ್ ಗಟ್ಟಿಯಾಗಿ, ಉದ್ದೇಶಪೂರ್ವಕವಾಗಿ ಇರುವುದರಿಂದ, ಯಾವ ಪರಿಸ್ಥಿತಿಯಲ್ಲೂ ಹಿಂಜರಿಯದೆ ಮುಂದುವರಿಯುವ ವ್ಯಕ್ತಿಯ ಮನೋಬಲವನ್ನು ತೋರಿಸುತ್ತದೆ.ಒಟ್ಟಿನಲ್ಲಿ, ಈ ಚಿತ್ರ ಧೈರ್ಯ, ನಿರಂತರ ಪ್ರಯತ್ನ ಮತ್ತು ಕಷ್ಟಗಳ ನಡುವೆ ಸಹ ಮುಂದೇರುವ ಸಾಮರ್ಥ್ಯವನ್ನು ವ್ಯಕ್ತಪಡಿಸುತ್ತದೆ."
     },
     fun: {
       en: ["The melting clocks were inspired by surreal ideas about time.", "Dalí often used dream imagery."],
@@ -374,7 +374,7 @@ export default function App() {
         </section>
       </main>
 
-      <footer className="footer">© 2025 MuInfo — Works offline • No login required</footer>
+      <footer className="footer">© 2025 MuInfo — by Team S3V</footer>
 
       {/* Hidden canvas for captures */}
       <canvas ref={canvasRef} style={{display:'none'}} />
